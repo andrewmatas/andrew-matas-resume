@@ -19,3 +19,5 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+Andrew Matas is a physicist and data scientist working as a member of the LIGO Scientific Collaboration. For a full list of my publications, please see [here](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20Andrew%20Matas).
