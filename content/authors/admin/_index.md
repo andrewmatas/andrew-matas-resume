@@ -64,6 +64,6 @@ email: "aamatas@gmail.com"
 highlight_name: false
 ---
 
-Andrew Matas is a gravitational-wave astronomer.
+THIS PAGE IS UNDER DEVELOPMENT. SOME INFORMATION IS BASED ON A TEMPLATE AND IS NOT CORRECT. Andrew Matas is a gravitational-wave astronomer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
